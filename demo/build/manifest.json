@@ -1,0 +1,24 @@
+{
+  "public/img/bg-simplify-section-desktop.svg": {
+    "file": "assets/bg-simplify-section-desktop-830b4ec0.svg",
+    "src": "public/img/bg-simplify-section-desktop.svg"
+  },
+  "public/img/bg-simplify-section-mobile.svg": {
+    "file": "assets/bg-simplify-section-mobile-d5a2eb69.svg",
+    "src": "public/img/bg-simplify-section-mobile.svg"
+  },
+  "public/img/bg-tablet-pattern.svg": {
+    "file": "assets/bg-tablet-pattern-1b3e62f1.svg",
+    "src": "public/img/bg-tablet-pattern.svg"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-6c0eeafd.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-01dfe9c3.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
